@@ -1,0 +1,33 @@
+
+Mouser Shopping cart (including J-Link EDU mini debugger, but excluding 0402 resistors, inductors and capacitors):
+http://www.mouser.fi/ProjectManager/ProjectDetail.aspx?AccessID=b366bfea82
+Total cost per device (without 0402 components) 15,04 € + 5€/3 PCBs
+
+Segger J-Link EDU mini
+http://www.mouser.fi/ProductDetail/Segger-Microcontroller/80891/?qs=sGAEpiMZZMt5Jda9HG8UJvQL%2f%252bNKj5HE07gbL8YLjy3KyEZLNVLoww%3d%3d
+https://www.segger.com/products/debug-probes/j-link/models/j-link-edu-mini/
+
+Chip antenna:
+http://www.mouser.fi/ProductDetail/Linx-Technologies/ANT-245-CHP-T/?qs=sGAEpiMZZMuBTKBKvsBmlOBg0H7cD5uyKO9Nf7FRnKk%3d
+
+Nordic nrf52832
+http://www.mouser.fi/ProductDetail/Nordic-Semiconductor/nRF52832-QFAA-R7/?qs=sGAEpiMZZMvI6uSdB0AenUM9EIMmu4Zj8k3CGW%2fHvv4%3d
+
+32Mhz crystal, 8pF Cl
+http://www.mouser.fi/ProductDetail/ABRACON/ABM12-32000MHZ-B2X-T3/?qs=%2fha2pyFadugnjux1EIsR3qjnMycpSm8npqzzhMTBa0m6Zg5zZJV%2fmOac1UATDbLL
+
+32kHz crystal, 9pf Cl
+http://www.mouser.fi/ProductDetail/ECS/ECS-327-9-1210-TR/?qs=sGAEpiMZZMsBj6bBr9Q9abMK2mGYOCsJkNBrm4djvYdVZ2R4njTnDQ%3d%3d
+
+27.12MHz crystal, 6pF Cl
+http://www.mouser.fi/ProductDetail/Murata/XRCGB27M120F3M00R0/?qs=%2fha2pyFadugKqpoHqO1BdHlLBOrOK83wYfT%2fTkSJ4E2NO1efX54EzA%3d%3d
+
+
+CR95HF nfc chippi
+http://www.mouser.fi/ProductDetail/STMicroelectronics/CR95HF-VMD5T/?qs=sGAEpiMZZMswmUeu4VmiEOAMOAPb5rUO
+
+tao glas nfc antenni
+http://www.taoglas.com/product/fxr-05-circular-nfc-flex-antenna-small-form-factor/
+http://www.mouser.fi/ProductDetail/Taoglas/FXR05A/?qs=%2fha2pyFaduhj%2fZUkGZs%252b4F1Bocp5o8hWgohuwU8X3viUEkOqZkTqyw%3d%3d
+
+

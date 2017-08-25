@@ -1,0 +1,27 @@
+Reference Links
+
+Nrf52832 reference schematics and pcb guidelines:
+http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52832.ps.v1.1%2Fref_circuitry.html&cp=2_2_0_52_6&anchor=pcb_guidelines
+
+Nrf datasheet:
+http://infocenter.nordicsemi.com/pdf/nRF52832_PS_v1.0.pdf
+
+Solutions Cubed BM019 NFC -board (using CR95HF -nfc chip) datasheet/schematics:
+http://www.solutions-cubed.com/bm019/
+http://www.solutions-cubed.com/content/Downloads/Breakout%20Modules/DATASHEET_BM019.pdf
+
+CR95HF datasheet:
+http://www.st.com/content/ccc/resource/technical/document/datasheet/d2/cc/cb/f6/7c/63/48/75/DM00025644.pdf/files/DM00025644.pdf/jcr:content/translations/en.DM00025644.pdf
+
+CR95HF Antenna design and impedance matching guidelines:
+http://www.st.com/content/ccc/resource/technical/document/application_note/33/ae/18/cb/dd/0f/46/96/DM00027198.pdf/files/DM00027198.pdf/jcr:content/translations/en.DM00027198.pdf
+
+Github / Sandeepmistry - Arduino Core for Nordic Semiconductor nRF5 based boards:
+https://github.com/sandeepmistry/arduino-nRF5
+
+Github / JoernL - LimiTTer code and schematics:
+https://github.com/JoernL/LimiTTer
+
+OSH Park:
+http://docs.oshpark.com/services/
+http://docs.oshpark.com/design-tools/altium-circuitmaker/
