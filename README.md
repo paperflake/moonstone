@@ -3,7 +3,7 @@
 [![Join the chat at https://gitter.im/moonstone_cgm/Lobby](https://badges.gitter.im/moonstone_cgm/Lobby.svg)](https://gitter.im/moonstone_cgm/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
-The smallest available solution to turn your Freestyle Libre into a wireless CGM (continuous glucose monitor).
+Designing the smallest possible open source solution to turn your Freestyle Libre into a wireless CGM (continuous glucose monitor).
 
 Author's note
 
