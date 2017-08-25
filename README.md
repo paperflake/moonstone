@@ -6,6 +6,7 @@
 The smallest available solution to turn your Freestyle Libre into a wireless CGM (continuous glucose monitor).
 
 Author's note
+
 The original idea for the Moonstone was to simply develop a custom wireless CGM board for Freestyle Libre. Since finding out about the great work and development done with LimiTTer, it was decided that possibly the least time consuming way to accomplish the idea, was to benefit from the work already accomplished. Therefore Moonstone has been designed to use the same CR95HF NFC -chip as the LimiTTer's BM019 module uses, as well as NRF52832 BLE-chip, which can be run with Arduino core. Therefore the Moonstone should be able to run with LimiTTer code, with little tweaking.
 
 In a nutshell: 
