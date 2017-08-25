@@ -21,6 +21,8 @@ In a nutshell:
 - Nrf52832 will be running Arduino core, with LimiTTer code, and should therefore have the same compatibility as LimiTTer (xDrip+ etc.)
 - Has total BOM/component cost of ~20€ per device (when hand soldered, excluding programmer)
 
+See the full design as an open source project on Altium Circuit Maker:
+https://circuitmaker.com/Projects/Details/Timo-Kankkunen-2/Moonstone/
 
 
 Next steps for the project Moonstone:
