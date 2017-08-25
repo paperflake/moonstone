@@ -22,7 +22,7 @@ In a nutshell:
 - Has total BOM/component cost of ~20€ per device (when hand soldered, excluding programmer)
 
 See the full design as an open source project on Altium Circuit Maker:
-https://circuitmaker.com/Projects/Details/Timo-Kankkunen-2/Moonstone/
+https://circuitmaker.com/Projects/Details/paperflake/Moonstone
 
 
 Next steps for the project Moonstone:
